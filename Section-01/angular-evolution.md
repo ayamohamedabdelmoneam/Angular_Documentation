@@ -60,3 +60,4 @@ Whether you're working on Angular 13 or Angular 17 — this will help you.
 - Angular evolves constantly, but maintains strong backward compatibility.
 - New versions are released every 6 months, but your knowledge won’t go to waste.
 - You’ll learn to write clean, modern Angular code — while still understanding how to work with older versions when needed.....
+
